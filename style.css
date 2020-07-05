@@ -1,0 +1,27 @@
+body{
+  background: #ffe8df;
+}
+h1{
+  color: #f88888;
+  font-size: 5rem;
+  text-align: center;
+  padding-bottom: 150px;
+  font-family: 'Merienda One', cursive;
+}
+.row{
+  text-align: center;
+}
+.game{
+  padding-bottom: 30px;
+  font-family: 'Kaushan Script', cursive;
+}
+.diceeSize{
+  width: 150px;
+  height: 150px;
+}
+.bottom{
+  padding-top: 50px;
+   text-align: center;
+   font-family: 'Merienda One', cursive;
+   color: #686f7a;
+}
